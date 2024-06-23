@@ -3,6 +3,9 @@
 <p>
 Guess the Number!” is an interactive game made with HTML, CSS, and JavaScript. Challenge yourself to guess a number between 1 and 20 and continue until you reach the chosen number. The game provides feedback based on your guesses and allows you to select a difficulty level.</p>
 
+![image](https://github.com/aditisingh02/guess-my-number_game/assets/140513260/4ab1aa39-c7cd-4b55-9145-3d3324d606a1)
+![image](https://github.com/aditisingh02/guess-my-number_game/assets/140513260/94c2f0c4-d9d4-4a67-833c-bcbc1710c84a)
+
 <h2>🎲Try It Out</h2>
 Play the game here: <a href="https://aditisingh02.github.io/guess-my-number_game/">Guess the Number Game</a>
 
