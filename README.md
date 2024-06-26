@@ -8,6 +8,13 @@ Guess the Number!” is an interactive game made with HTML, CSS, and JavaScript.
 
 <h2>🎲Try It Out</h2>
 Play the game here: <a href="https://aditisingh02.github.io/guess-my-number_game/">Guess the Number Game</a>
+<br>
+<h2>💻 Languages Used</h2>
+<div>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML"><img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=HTML&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS&logoColor=black"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
+</div>
 
 <h2>🌟Contributing</h2>
 Contributions to improve the Guess the Number game are welcome! 
